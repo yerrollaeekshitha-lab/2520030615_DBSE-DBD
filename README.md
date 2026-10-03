@@ -1,1 +1,1 @@
-#CyberSecurity Awareness and Phishinh Simulation Platform
+#CyberSecurity Awareness and Phishing Simulation Platform
